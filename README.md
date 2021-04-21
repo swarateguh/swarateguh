@@ -5,6 +5,5 @@
 - 📫 How to reach me ...
 
 <!---
-repoaitory - https://github.com/swarateguh/WebGL_Warehouse3D.git
-main - https://swarateguh.github.io/WebGL_Warehouse3D/
+
 --->
